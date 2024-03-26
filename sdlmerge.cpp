@@ -5,7 +5,7 @@
 #include <chrono>
 #include <thread>
 #include <math.h>
-#include "headers/MLX90640_API.h"
+#include "../mlx90640-library/headers/MLX90640_API.h"
 
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_render.h>
