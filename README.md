@@ -5,9 +5,9 @@ Requirements
 ------------
 Raspberry Pi
 
-Rpi camera
+Rpi camera (2592x1944)
 
-MLX906040 thermal camera breakout from [pimoroni](https://shop.pimoroni.com/products/mlx90640-thermal-camera-breakout?variant=12536948654163)
+MLX906040 thermal camera breakout from [pimoroni](https://shop.pimoroni.com/products/mlx90640-thermal-camera-breakout?variant=12536948654163) (32x54)
 
 [mlx90640 library](https://github.com/pimoroni/mlx90640-library)
 
